@@ -13,7 +13,7 @@
       > source code for generating the tables and figures in the section of evaluation
 - Model
   - TrainTest.py
-    > source code for train and evaluate the DeepCP model 
+    > source code for training and evaluating the DeepCP model 
   - baseline
     > source code for the baseline approach
   - models
